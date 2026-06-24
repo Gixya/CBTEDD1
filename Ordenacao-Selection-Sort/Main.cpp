@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Ordenção implementando Selection Sort.
+//Ordenação implementando o método Selection Sort.
 
 int main() {
 
